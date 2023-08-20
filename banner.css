@@ -1,0 +1,14 @@
+.botao-direito {
+    background-image: url(../Calendário/gradiente.avif);
+    border-radius: 23px;
+    margin-left: 64px;
+}
+.botao-esquerdo {
+    background-image: url(../Calendário/gradiente.avif);
+    border-radius: 23px;
+    margin-right: 64px;
+}
+.titulo a {
+    text-decoration: none;
+    color: #000;
+}

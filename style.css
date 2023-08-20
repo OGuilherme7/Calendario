@@ -1,0 +1,80 @@
+body {
+    padding-top: 95px;
+}
+
+.menu {
+    background: #979696;
+    border-bottom: #777777 solid 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+nav {
+    position: absolute;
+    top: 45%;
+    right: 0;
+}
+.cabeçario {
+    margin: 0 20%;
+    position: relative;
+}
+nav li {
+    display: inline;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 19px;
+    font-family: Cambria;
+}
+.logo {
+    width: 110px;
+    padding: 10px 0 10px 10px;
+}
+
+.titulo {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 115px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+table tr td {
+    border: #000000 2px solid;
+    width: 103px;
+    height: 63px;
+}
+.primária {
+    height: 23px;
+    background-color: #BBBBBB;
+    font-size: 16px !important;
+}
+table {
+    display: table;
+    margin: 30px auto;
+}
+td {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 21px !important;
+}
+.outro-mes {
+    color: rgb(00,00,00,0.480);
+}
+
+.copyright {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.espaço {
+    margin: 250px 0 0 0;
+    background-color: #f05315;
+}
